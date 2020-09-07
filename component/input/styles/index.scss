@@ -1,0 +1,12 @@
+.InputGroupDate {
+  border: 1px solid #e4e9f0;
+  .ant-input {
+    border: none;
+  }
+}
+
+.has-error {
+  .InputGroupDate {
+    border-color: #fb434a;
+  }
+}
